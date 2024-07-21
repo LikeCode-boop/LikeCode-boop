@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def matrix():
 # make a matrix with numpy
     gfg = np.matrix('[1, 2, 3; 4, 5, 6; 7, 8, -9]')
